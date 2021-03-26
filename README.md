@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/-@LeoDiasTrindade-%23181717?style=flat-square&logo=github)](https://github.com/LeoDiasTrindade) &emsp;  &emsp;
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) &nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social) &nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=C&style=social)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&style=social) &nbsp;
+![C](https://img.shields.io/badge/--black?style=flat-square&logo=C&style=social)
 
 ### Hi there 👋
 
