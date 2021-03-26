@@ -1,16 +1,23 @@
+[![](https://img.shields.io/badge/-@LeoDiasTrindade-%23181717?style=flat-square&logo=github)](https://github.com/LeoDiasTrindade) &emsp;  &emsp;
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) &nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social) &nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=C&style=social)
+
 ### Hi there 👋
 
-<!--
-**LeoDiasTrindade/LeoDiasTrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:computer: I'm a Computer Science undergraduate student at [UFABC](https://www.ufabc.edu.br/).
 
+🎲📊 I’m currently learning about probabilist method and machine learning <br><br>
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDiasTrindade&theme=blue-green)
+
+<!-- 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+... -->
