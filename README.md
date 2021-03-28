@@ -8,7 +8,7 @@
 
 :computer: I'm a Computer Science undergraduate student at [UFABC](https://www.ufabc.edu.br/).
 
-🎲📊 I’m currently learning about probabilist method and machine learning <br><br>
+🎲📊 I’m currently learning about machine learning <br><br>
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDiasTrindade&theme=blue-green)
 
