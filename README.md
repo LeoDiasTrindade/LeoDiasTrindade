@@ -1,6 +1,6 @@
 <h2> Leonardo Dias Trindade </h2>
 
-<img align='right' src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="230">
+<img align='right' src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200">
 
 <p><em><img src="https://media4.giphy.com/media/kC33l13S3EwkP1uslB/giphy.gif" width="30"> Estudando Ciências da Computação na <a href="https://www.ufabc.edu.br/">UFABC</a>
 </br>
