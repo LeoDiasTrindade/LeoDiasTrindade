@@ -6,7 +6,7 @@
 </br>
 <img src="https://media0.giphy.com/media/OJTxHkKwcM5lfi2OnW/giphy.gif" width="30"> Interessado em análise de dados e automação de processos. </em></p>
 
-[![Linkedin: leonardodiastrindade](https://img.shields.io/badge/-leonardodiastrindade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardodiastrindade/)](www.linkedin.com/in/leonardodiastrindade)
+[![Linkedin: leonardodiastrindade](https://img.shields.io/badge/-leonardodiastrindade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardodiastrindade/)](https://www.linkedin.com/in/leonardodiastrindade)
 [![GitHub LeonardoDiasTrindade](https://img.shields.io/github/followers/LeoDiasTrindade?label=follow&style=social)](https://github.com/LeoDiasTrindade)
 
 ---
